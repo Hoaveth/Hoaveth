@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Justine, a full-time full-stack web and mobile developer 👨‍💻 </div>  
+### <div align="center">I'm Justine, a full-stack web and mobile developer 👨‍💻 </div>  
   
 
 - 🔭 I’m currently working at [Talleco JobTarget PH](https://www.jobtarget.com/)  
