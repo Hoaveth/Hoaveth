@@ -12,10 +12,10 @@
 - 🌱 I’m currently learning NextJS and TypeScript  
   
 
-- ❓ Ask me about anything related to React and related technologies  
+- ❓ Ask me about anything related to React!
   
 
-- ⚡ Fun fact: I once worked with NBA software engineers  
+- ⚡ Fun fact: I once worked with NBA software engineers  and I love basketball!
   
 
 <br/>  
